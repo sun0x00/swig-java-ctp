@@ -26,8 +26,8 @@
 
 请分别参考以下两个仓库进一步了解编译相关内容
 
-+ Windows [jctpapi-msvc]https://github.com/sun0x00/jctpapi-msvc
-+ Linux [jctpapi-liunx]https://github.com/sun0x00/jctpapi-linux
++ Windows [jctpapi-msvc](https://github.com/sun0x00/jctpapi-msvc)
++ Linux [jctpapi-liunx](https://github.com/sun0x00/jctpapi-linux)
 
 
 
